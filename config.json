@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtersender",
+        "uuid": 16021080,
+        "checksum": "mioybt"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
